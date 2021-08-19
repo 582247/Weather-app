@@ -12,5 +12,14 @@ body {
   background: #43affc;
 }
 .wrapper {
-  background: white;
+  width: 400px;
+  border-radius: 7px;
+  background: #fff;
+}
+.wrapper header {
+  font-size: 21px;
+  color: #43affc;
+  font-weight: 500;
+  padding: 16px 15px;
+  border-bottom: 1px solid #bfbfbf;
 }
